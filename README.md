@@ -4,7 +4,7 @@
   (Expected Graduation in December 2021) :woman_student: 
 - Bangkok,Thailand :thailand: / Chicago,USA :us:
 - [RESUME](https://maimaiva.github.io/resume/) | [Profile](https://maivanisa1.wixsite.com/my-profile) | [LinkedIn](https://www.linkedin.com/in/vanisaachakulvisut/)
-- Getting know more about ME! [My Work Experience](https://github.com/maimaiva/MyWorkExperience) & [My Hobbies]()
+- Getting know more about ME! [My Work Experience](https://github.com/maimaiva/MyWorkExperience) & [My Hobbies](https://github.com/maimaiva/MyHobbies/blob/main/README.md)
 
 ### My Portfolio 
 - MSBA Academic Projects >> [click!](https://github.com/maimaiva/academic-projects-msba)
