@@ -1,7 +1,7 @@
 ### Hi there! 👋 
 - My name is "Vanisa Achakulvisut" or "Mai" for short!
 - I'm currently a Business Analytics graduate student at University of Illinois at Chicago. </br>
-  (Expected Graduation December 2021) :woman_student: 
+  (Expected Graduation in December 2021) :woman_student: 
 - Bangkok,Thailand :thailand: / Chicago,USA :us:
 - [RESUME](https://maimaiva.github.io/resume/) | [Profile](https://maivanisa1.wixsite.com/my-profile) | [LinkedIn](https://www.linkedin.com/in/vanisaachakulvisut/)
 
