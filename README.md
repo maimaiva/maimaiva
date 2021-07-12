@@ -13,7 +13,7 @@
   - [Machine Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning) _(R)_
   - [Deep Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning) _(Python)_
   - [Big Data Analytics](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics) _(Python,PySpark)_
-  - [Business Data Visualization]() _Tableau_
+  - [Business Data Visualization]() _(Tableau)_
  
 - Hackkerank Challenges >> [click!](https://github.com/maimaiva/Hackerrank)
 - Research Analyst Internship >> [click!](https://github.com/maimaiva/Research-Analyst-Internship)
