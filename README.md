@@ -6,11 +6,11 @@
 
 ### My Portfolio 
 - MSBA Academic Projects >> [click!](https://github.com/maimaiva/academic-projects-msba)
-  - Data Mining >> [click!]()
-  - Machine Learning >> [click!]()
-  - Deep Learning >> [click!]()
-  - Big Data Analytics >> [click!]()
-  - Advance Database Management >> [click!]()
+  - Data Mining >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining)
+  - Machine Learning >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning)
+  - Deep Learning >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning)
+  - Big Data Analytics >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics)
+  - Advance Database Management >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management)
   - Business Data Visualization >> [click!]()
  
 - Hackkerank Challenge >> [click!](https://github.com/maimaiva/Hackerrank)
