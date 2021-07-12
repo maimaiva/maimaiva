@@ -8,12 +8,13 @@
 
 ### My Portfolio 
 - MSBA Academic Projects >> [click!](https://github.com/maimaiva/academic-projects-msba)
+  - [Advance Database Management](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management) _(SQL)_
   - [Data Mining](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining) _(R)_
   - [Machine Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning) _(R)_
   - [Deep Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning) _(Python)_
   - [Big Data Analytics](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics) _(Python,PySpark)_
-  - [Advance Database Management](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management) _(SQL)_
   - [Business Data Visualization]() _Tableau_
  
 - Hackkerank Challenges >> [click!](https://github.com/maimaiva/Hackerrank)
 - Research Analyst Internship >> [click!](https://github.com/maimaiva/Research-Analyst-Internship)
+- Online Learning Certification >> [Click!]()
