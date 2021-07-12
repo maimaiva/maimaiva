@@ -7,12 +7,12 @@
 
 ### My Portfolio 
 - MSBA Academic Projects >> [click!](https://github.com/maimaiva/academic-projects-msba)
-  - [Data Mining](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining)
-  - [Machine Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning)
-  - [Deep Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning)
-  - [Big Data Analytics](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics)
-  - [Advance Database Management](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management)
-  - [Business Data Visualization]()
+  - [Data Mining](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining) _R_
+  - [Machine Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning) _R_
+  - [Deep Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning) _Python_
+  - [Big Data Analytics](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics) _Python,PySpark_
+  - [Advance Database Management](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management) _SQL_
+  - [Business Data Visualization]() _Tableau_
  
-- Hackkerank Challenge >> [click!](https://github.com/maimaiva/Hackerrank)
+- Hackkerank Challenges >> [click!](https://github.com/maimaiva/Hackerrank)
 - Research Analyst Internship >> [click!](https://github.com/maimaiva/Research-Analyst-Internship)
