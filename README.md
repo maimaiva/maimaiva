@@ -6,12 +6,12 @@
 
 ### My Portfolio 
 - MSBA Academic Projects >> [click!](https://github.com/maimaiva/academic-projects-msba)
-  - Data Mining >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining)
-  - Machine Learning >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning)
-  - Deep Learning >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning)
-  - Big Data Analytics >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics)
-  - Advance Database Management >> [click!](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management)
-  - Business Data Visualization >> [click!]()
+  - [Data Mining](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DataMining)
+  - [Machine Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/MachineLearning)
+  - [Deep Learning](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/DeepLearning)
+  - [Big Data Analytics](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/BigDataAnalytics)
+  - [Advance Database Management](https://github.com/maimaiva/Academic-Projects-MSBA/tree/main/Advance%20Database%20Management)
+  - [Business Data Visualization]()
  
 - Hackkerank Challenge >> [click!](https://github.com/maimaiva/Hackerrank)
 - Research Analyst Internship >> [click!](https://github.com/maimaiva/Research-Analyst-Internship)
